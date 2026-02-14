@@ -22,6 +22,11 @@ As mentioned, I use Arduino IDE and [Arduino Core CH32](https://github.com/openw
 
 Compilation note - FERDA does not require any MCU speed, it is much effective to run MCU on smallest speed, because it will mean lower consumption. I'm using 48 MHz internal clock.
 
+Program is very primitive, but long. It is re-writen from some old assambler version of code. That is visible in structure.
+
 You can create your own, you are welcome to support this project by your contribution.
+
+## License
+You can create your own, You can share, You cannot have any profit, You cannot create any comercials
 
 <img src="https://raw.githubusercontent.com/fulda1/FERDA_v2/refs/heads/main/hardware/cc-icons.svg#cc-logo" alt="CC" width="30" height="30"> <img src="https://raw.githubusercontent.com/fulda1/FERDA_v2/refs/heads/main/hardware/cc-icons.svg#cc-by" alt="BY" width="30" height="30"> <img src="https://raw.githubusercontent.com/fulda1/FERDA_v2/refs/heads/main/hardware/cc-icons.svg#cc-nc" alt="NC" width="30" height="30"> <img src="https://raw.githubusercontent.com/fulda1/FERDA_v2/refs/heads/main/hardware/cc-icons.svg#cc-sa" alt="SA" width="30" height="30">
